@@ -1,2 +1,6 @@
 # Modelo-Comportamiento
-Este es un repositorio de github como respaldo para los modelos de comportamiento
+
+__Creadores: Sebastián Morales - Juan Vial__
+## Descripción
+
+En este repositorio se presentan los códigos que se han utilizado para la construcción de un modelo de elección discreta de distintas alternativas ofrecidas por la empresa.
